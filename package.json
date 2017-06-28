@@ -44,5 +44,16 @@
     "webpack-dev-middleware": "^1.10.1",
     "webpack-dev-server": "^2.4.2",
     "webpack-hot-middleware": "^2.18.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdchun/component-lib-playground.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mdchun/component-lib-playground/issues"
+  },
+  "homepage": "https://github.com/mdchun/component-lib-playground#readme"
 }
